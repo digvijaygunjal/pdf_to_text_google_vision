@@ -1,2 +1,5 @@
 venv/
 .idea
+data/images/*
+data/text/*
+data/

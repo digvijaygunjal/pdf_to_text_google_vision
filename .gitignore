@@ -3,3 +3,4 @@ venv/
 data/images/*
 data/text/*
 data/
+src/__pycache__/

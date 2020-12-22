@@ -1,6 +1,7 @@
-# pdf_to_text_google_vision
+# PDF to text using Google Vision
 
-##How to use?
+###How to use?
+
     1.`git clone https://github.com/digvijaygunjal/pdf_to_text_google_vision.git`
     1.`cd pdf_to_text_google_vision`
 
